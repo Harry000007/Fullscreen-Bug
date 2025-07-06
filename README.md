@@ -1,2 +1,2 @@
-# WTF-Fullscreen-Bug
-WTF-Fullscreen-Bug
+# Fullscreen-Bug
+Fullscreen-Bug
