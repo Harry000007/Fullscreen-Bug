@@ -1,4 +1,4 @@
-# Fullscreen-Bug
+# Fullscreen-Bug (just a generic crash)
 Fullscreen-Bug
 Load the page in full screen.
 Press refresh and exit full screen. A crash occurs on firmware 12.00.
